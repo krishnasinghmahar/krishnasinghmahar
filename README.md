@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krishnaSinghMahar
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning javaScipt
 .
 
 <!---
